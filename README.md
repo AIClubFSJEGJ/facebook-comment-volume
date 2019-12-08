@@ -118,4 +118,3 @@
 - _Ridge Regression_
 - _Lasso Regression_
 - _Elastic Net_
-- _Simple Convolution Neural Nets_
